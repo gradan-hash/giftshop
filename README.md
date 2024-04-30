@@ -1,3 +1,35 @@
+
+An e-commerce site for selling watches, gifts arts  and use  mpesa integration.
+
+
+summary:
+
+**Login/register**
+![Screenshot (1065)](https://github.com/gradan-hash/giftshop/assets/80700768/436c6f14-3558-4b1f-a666-98a7f3e1fa83)
+
+
+**Homepage**
+![Screenshot (1061)](https://github.com/gradan-hash/giftshop/assets/80700768/871048ec-1be6-4bc1-84e4-083937339e6f)
+
+**Filter By XXX***
+![Screenshot (1062)](https://github.com/gradan-hash/giftshop/assets/80700768/c836700d-569f-489c-8e6f-9c65ac524268)
+
+**Single page**
+![Screenshot (1063)](https://github.com/gradan-hash/giftshop/assets/80700768/18616b2e-f331-4d7e-9424-f9121e7a906d)
+
+**Cart**
+![Screenshot (1064)](https://github.com/gradan-hash/giftshop/assets/80700768/2e0f21c7-dd5d-4681-9df2-5750d006e2bd)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
