@@ -1,0 +1,56 @@
+.checkout-main {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.checkout-main-container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkout-main-container p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.billing-form {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.bill-name label {
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+.bill-name input {
+  width: 220px;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.bill-name input::placeholder {
+  font-weight: bold;
+}
+
+.request-btn button {
+  width: 250px;
+  padding: 5px;
+  background-color: rgb(67, 175, 67);
+  color: white;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.till {
+  margin-top: 20px;
+}

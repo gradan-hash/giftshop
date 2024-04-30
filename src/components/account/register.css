@@ -1,0 +1,71 @@
+.username {
+  margin-bottom: 10px;
+}
+.username .person {
+  margin-right: 20px;
+  font-size: 23px;
+}
+
+.username .input-mail {
+  width: 250px;
+  padding: 3px;
+  border-radius: 4px;
+}
+
+.username .input-mail::placeholder {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.password-input .person {
+  margin-right: 20px;
+  font-size: 23px;
+}
+
+.password-input .input-mail {
+  width: 250px;
+  padding: 3px;
+  border-radius: 4px;
+}
+
+.password-input {
+  position: relative;
+}
+
+.password-input .eye-icon {
+  position: absolute;
+  right: 10px;
+  top: 60%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.login-btn {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 4px;
+  outline: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.loading-icon {
+  animation: spin 1s linear infinite;
+  color: purple;
+  font-size: 20px;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
